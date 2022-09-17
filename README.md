@@ -150,8 +150,8 @@ Kdron render:
 <br />
 Circle render:
 
-<img src="images/Circle1.png" width="300"/>
-<img src="images/Circle2.png" width="300"/>
+<img src="images/circle1.png" width="300"/>
+<img src="images/circle2.png" width="300"/>
 
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
