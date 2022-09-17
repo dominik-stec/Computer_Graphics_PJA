@@ -29,12 +29,13 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">GRK_PJATK</h2>
+  <h2 align="center">GRK_PJATK_practice</h2>
 
-  <p align="center">
-    Computer graphics subcject and programming in OpenGL library in PJATK
+<p align="center">
+    <h3>     Computer graphics subcject and programming in OpenGL library in PJATK
+ </h3>
     <br />
-    <a href="https://github.com/dccstcc/GRK_PJATK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dccstcc/GRK_PJATK_practice"><strong>» go to CODE »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -44,7 +45,6 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -102,7 +102,7 @@ OpenGL library is required. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dccstcc/GRK_PJATK
+   git clone https://github.com/dccstcc/GRK_PJATK_practice
    ```
 2. Install required build tools
    ```sh
@@ -220,16 +220,16 @@ Project URL:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/GRK_PJATK.svg?style=for-the-badge
-[contributors-url]: https://github.com/dccstcc/GRK_PJATK/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dccstcc/GRK_PJATK.svg?style=for-the-badge
-[forks-url]: https://github.com/dccstcc/GRK_PJATK/network/members
-[stars-shield]: https://img.shields.io/github/stars/dccstcc/GRK_PJATK.svg?style=for-the-badge
-[stars-url]: https://github.com/dccstcc/GRK_PJATK/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dccstcc/GRK_PJATK.svg?style=for-the-badge
-[issues-url]: https://github.com/dccstcc/GRK_PJATK/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/GRK_PJATK_practice.svg?style=for-the-badge
+[contributors-url]: https://github.com/dccstcc/GRK_PJATK_practice/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dccstcc/GRK_PJATK_practice.svg?style=for-the-badge
+[forks-url]: https://github.com/dccstcc/GRK_PJATK_practice/network/members
+[stars-shield]: https://img.shields.io/github/stars/dccstcc/GRK_PJATK_practice.svg?style=for-the-badge
+[stars-url]: https://github.com/dccstcc/GRK_PJATK_practice/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dccstcc/GRK_PJATK_practice.svg?style=for-the-badge
+[issues-url]: https://github.com/dccstcc/GRK_PJATK_practice/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dccstcc/GRK_PJATK/blob/master/LICENSE.txt
+[license-url]: https://github.com/dccstcc/GRK_PJATK_practice/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
