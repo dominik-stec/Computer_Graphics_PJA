@@ -29,12 +29,12 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">DOT_PJATK</h2>
+  <h2 align="center">GRK_PJATK</h2>
 
   <p align="center">
-    .NET framework project in PJATK subject
+    Computer graphics subcject and programming in OpenGL library in PJATK
     <br />
-    <a href="https://github.com/dccstcc/BIU_PJATK"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dccstcc/GRK_PJATK"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -78,13 +78,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project I use template from BIU_PJATK subject for frontend of application and use .NET framework for backend implementation. I Use C# language for make REST API and communicate it with web form for register new users in application. 
+In this subject I made four projects according to programming in C++ language and OpenGL library. These codes include implementation of 3D graphics models with animation.
 
 ### Built With
 
 This project use technology below.
-* [![dotnet][dotnet-shield]][dotnet-url]
-* [![Angular][angular-shield]][angular-url]
+* [![debian][debian-shield]][debian-url]
+* [![opengl][opengl-shield]][opengl-url]
+* [![cpp][cpp-shield]][cpp-url]
 
 
 <!-- GETTING STARTED -->
@@ -94,78 +95,63 @@ This is instructions on setting up this project locally.
 
 ### Prerequisites
 
-Microsoft Visual Studio IDE is need. <br/>
-.NET framework is required. <br/>
-Angular CLI package intall with Node Package Manager is need. <br/>
-Angular devkit package intall with Node Package Manager is need. <br/>
+Linux based on Debian distribution is need. <br/>
+OpenGL library is required. <br/>
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dccstcc/DOT_PJATK
+   git clone https://github.com/dccstcc/GRK_PJATK
    ```
-2. Go to folder with actual version of project frontend
+2. Install required build tools
    ```sh
-   cd dotNET_ASP_REST_EF/Angular_SPA/ClientApp
+   sudo apt-get install g++ make
    ```
-3. Build and run sources with Angular CLI
+3. Install required dependencies
    ```sh
-   ng serve
+   sudo apt-get install freeglut3 freeglut3-dev libglew-dev 
    ```
    <br/>
-4. Run project in web browser
-   Default adress set in framewrok is:
-   [https://localhost:4200/](https://localhost:4200/)
-   <br/>
-5. Run Visual Studio and import project from source
+4. Install optional dependencies
    ```sh
-   cd DOT_PJATK/dotNET_ASP_REST_EF/
+   sudo apt-get install libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev
+   ```
 
-   ```
-   open 
-   ```
-   NET_CORE_ASP_REST_EF.sln
-   ```
-   in Visual Studio
-   <br/>
-6. From context menu of ASP_REST project hit 
-  ```
-  run project
-  ```
-<br />
 <img src="images/run_backend.png" width="300"/>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-After run project from Visual Studio web browser start automatically with backend data view.
+Into Debian based Linux distribution as background go to each of four catalogs and into all of them separately enter into terminal command: 
+   ```sh
+   make
+   ```
+After build all projects run each of them separately by GUI icon which should appear and which represent enter point to run simulation. 
 
-<img src="images/backend_init.png" width="300"/>
+<br /><br />
 
-Go to web browser and enter in adress
-```
-http://localhost:4200
-```
+TwoSpheres render:
 
-<img src="images/web_for_init.png" width="300"/>
+<img src="images/ts1.png" width="300"/>
+<img src="images/ts2.png" width="300"/>
+<img src="images/ts3.png" width="300"/>
 
+threeLights render:
 
-As first we need to register user in system use fields with personal user data. Unappropriate entries are detected and user will see typing error. After user registration process we can sign into service with given user name and password.
+<img src="images/tl1.png" width="300"/>
+<img src="images/tl2.png" width="300"/>
+<img src="images/tl3.png" width="300"/>
 
-<img src="images/web_form_fill.png" width="300"/>
+Kdron render:
 
-It is possible not to fill all inputs because button 
-```
-rejestracja_rest_api
-```
-is active all the time. After click this button we will send data for backend rest api and will register new user in Angular storage.
+<img src="images/kdron1.png" width="300"/>
+<img src="images/kdron2.png" width="300"/>
 
-<img src="images/frontend_summary.png" width="300"/>
+Circle render:
 
-Now it is need to refresh web page.
-
-<img src="images/json_output.png" width="300"/>
+<img src="images/Circle1.png" width="300"/>
+<img src="images/Circle2.png" width="300"/>
 
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
@@ -210,7 +196,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL: 
 <br />
-`https://github.com/dccstcc/DOT_PJATK.git`
+`https://github.com/dccstcc/GRK_PJATK.git`
 
 
 
@@ -234,21 +220,23 @@ Project URL:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/DOT_PJATK.svg?style=for-the-badge
-[contributors-url]: https://github.com/dccstcc/DOT_PJATK/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dccstcc/DOT_PJATK.svg?style=for-the-badge
-[forks-url]: https://github.com/dccstcc/DOT_PJATK/network/members
-[stars-shield]: https://img.shields.io/github/stars/dccstcc/DOT_PJATK.svg?style=for-the-badge
-[stars-url]: https://github.com/dccstcc/DOT_PJATK/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dccstcc/DOT_PJATK.svg?style=for-the-badge
-[issues-url]: https://github.com/dccstcc/DOT_PJATK/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dccstcc/GRK_PJATK.svg?style=for-the-badge
+[contributors-url]: https://github.com/dccstcc/GRK_PJATK/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dccstcc/GRK_PJATK.svg?style=for-the-badge
+[forks-url]: https://github.com/dccstcc/GRK_PJATK/network/members
+[stars-shield]: https://img.shields.io/github/stars/dccstcc/GRK_PJATK.svg?style=for-the-badge
+[stars-url]: https://github.com/dccstcc/GRK_PJATK/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dccstcc/GRK_PJATK.svg?style=for-the-badge
+[issues-url]: https://github.com/dccstcc/GRK_PJATK/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dccstcc/DOT_PJATK/blob/master/LICENSE.txt
+[license-url]: https://github.com/dccstcc/GRK_PJATK/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
 
-[angular-shield]: https://img.shields.io/badge/-Angular-red
-[angular-url]: https://angular.io/
-[dotnet-shield]: https://img.shields.io/badge/-.NET-blue
-[dotnet-url]: https://docs.microsoft.com/pl-pl/dotnet/
+[debian-shield]: https://img.shields.io/badge/-Debian-red
+[debian-url]: https://www.debian.org/index.pl.html
+[opengl-shield]: https://img.shields.io/badge/-OpenGL-green
+[opengl-url]: https://www.opengl.org/
+[cpp-shield]: https://img.shields.io/badge/-C++-blue
+[cpp-url]: https://isocpp.org/std/the-standard
