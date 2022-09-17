@@ -97,6 +97,8 @@ This is instructions on setting up this project locally.
 
 Linux based on Debian distribution is need. <br/>
 OpenGL library is required. <br/>
+C++ compilator is need. <br/>
+
 
 ### Installation
 
