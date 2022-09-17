@@ -137,17 +137,20 @@ TwoSpheres render:
 <img src="images/ts2.png" width="300"/>
 <img src="images/ts3.png" width="300"/>
 <br />
-threeLights render:
+
+ThreeLights render:
 
 <img src="images/tl1.png" width="300"/>
 <img src="images/tl2.png" width="300"/>
 <img src="images/tl3.png" width="300"/>
 <br />
+
 Kdron render:
 
 <img src="images/kdron1.png" width="300"/>
 <img src="images/kdron2.png" width="300"/>
 <br />
+
 Circle render:
 
 <img src="images/circle1.png" width="300"/>
