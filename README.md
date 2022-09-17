@@ -32,7 +32,7 @@
   <h2 align="center">GRK_PJATK_practice</h2>
 
 <p align="center">
-    <h3>     Computer graphics subcject and programming in OpenGL library in PJATK
+    <h3>     Computer graphics subject and programming in OpenGL library in PJATK
  </h3>
     <br />
     <a href="https://github.com/dccstcc/GRK_PJATK_practice"><strong>» go to CODE »</strong></a>
@@ -118,8 +118,6 @@ OpenGL library is required. <br/>
    sudo apt-get install libglfw3-dev libgl1-mesa-dev libglu1-mesa-dev
    ```
 
-<img src="images/run_backend.png" width="300"/>
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -136,18 +134,18 @@ TwoSpheres render:
 <img src="images/ts1.png" width="300"/>
 <img src="images/ts2.png" width="300"/>
 <img src="images/ts3.png" width="300"/>
-
+<br />
 threeLights render:
 
 <img src="images/tl1.png" width="300"/>
 <img src="images/tl2.png" width="300"/>
 <img src="images/tl3.png" width="300"/>
-
+<br />
 Kdron render:
 
 <img src="images/kdron1.png" width="300"/>
 <img src="images/kdron2.png" width="300"/>
-
+<br />
 Circle render:
 
 <img src="images/Circle1.png" width="300"/>
