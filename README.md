@@ -194,7 +194,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL: 
 <br />
-`https://github.com/dccstcc/GRK_PJATK.git`
+`https://github.com/dccstcc/GRK_PJATK_practice.git`
 
 
 
