@@ -5,8 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -15,6 +13,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -29,15 +28,15 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">GRK_PJATK_practice</h2>
+  <h2 align="center">Computer Graphics</h2>
 
 <p align="center">
-    <h3>     Computer graphics subject and programming in OpenGL library in PJATK
- </h3>
+    <h3>     Programming computer graphics in OpenGL library
+ <!-- </h3>
     <br />
     <a href="https://github.com/dccstcc/GRK_PJATK_practice"><strong>» go to CODE »</strong></a>
     <br />
-    <br />
+    <br /> -->
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
@@ -46,50 +45,49 @@
   </p>
 </p>
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-description">Project description</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#libraries-and-frameworks">Libraries / Frameworks</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#native-deploy">Native deploy</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#how-to-use">How to use ?</a></li>
     <!-- <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Contact with me</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+
+## Project description
 
 In this subject I made four projects according to programming in C++ language and OpenGL library. These codes include implementation of 3D graphics models with animation.
 
-### Built With
+### Libraries and frameworks
 
 This project use technology below.
-* [![debian][debian-shield]][debian-url]
-* [![opengl][opengl-shield]][opengl-url]
-* [![cpp][cpp-shield]][cpp-url]
 
+- [![debian][debian-shield]][debian-url]
+- [![opengl][opengl-shield]][opengl-url]
+- [![cpp][cpp-shield]][cpp-url]
 
 <!-- GETTING STARTED -->
-## Getting Started
+
+## Native deploy
 
 This is instructions on setting up this project locally.
 
@@ -99,12 +97,11 @@ Linux based on Debian distribution is need. <br/>
 OpenGL library is required. <br/>
 C++ compilator is need. <br/>
 
-
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dccstcc/GRK_PJATK_practice
+   git clone https://github.com/dominik-stec/Computer_Graphics_PJA.git
    ```
 2. Install required build tools
    ```sh
@@ -112,7 +109,7 @@ C++ compilator is need. <br/>
    ```
 3. Install required dependencies
    ```sh
-   sudo apt-get install freeglut3 freeglut3-dev libglew-dev 
+   sudo apt-get install freeglut3 freeglut3-dev libglew-dev
    ```
    <br/>
 4. Install optional dependencies
@@ -121,13 +118,16 @@ C++ compilator is need. <br/>
    ```
 
 <!-- USAGE EXAMPLES -->
-## Usage
 
-Into Debian based Linux distribution as background go to each of four catalogs and into all of them separately enter into terminal command: 
-   ```sh
-   make
-   ```
-After build all projects run each of them separately by GUI icon which should appear and which represent enter point to run simulation. 
+## How to use
+
+Into Debian based Linux distribution as background go to each of four catalogs and into all of them separately enter into terminal command:
+
+```sh
+make
+```
+
+After build all projects run each of them separately by GUI icon which should appear and which represent enter point to run simulation.
 
 <br /><br />
 
@@ -156,19 +156,16 @@ Circle render:
 <img src="images/circle1.png" width="300"/>
 <img src="images/circle2.png" width="300"/>
 
-
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
-
-
-<!-- ROADMAP 
+<!-- ROADMAP
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 -->
 
-<!-- CONTRIBUTING 
+<!-- CONTRIBUTING
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -182,28 +179,26 @@ Contributions are what make the open source community such an amazing place to l
 -->
 
 <!-- LICENSE -->
+
 ## License
 
 This project has not a license.
-All rights are reserved and it is not Open Source or Free. You cannot modify or redistribute this code without explicit permission from the copyright holder.
+All rights are reserved and it is not Open Source or free. You cannot modify or redistribute this code without explicit permission from the copyright holder, because projects which I realised are private conception from PJATK studies.
 See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-Dominik Stec - dccstcc@gmail.com
+Dominik Stec - dominikstec@devapp.tools
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project URL: 
+Project URL:
 <br />
-`https://github.com/dccstcc/GRK_PJATK_practice.git`
+`https://github.com/dominik-stec/Computer_Graphics_PJA.git`
 
-
-
-<!-- ACKNOWLEDGEMENTS 
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -219,10 +214,9 @@ Project URL:
 
 -->
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/dccstcc/GRK_PJATK_practice.svg?style=for-the-badge
 [contributors-url]: https://github.com/dccstcc/GRK_PJATK_practice/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/dccstcc/GRK_PJATK_practice.svg?style=for-the-badge
@@ -236,7 +230,6 @@ Project URL:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
-
 [debian-shield]: https://img.shields.io/badge/-Debian-red
 [debian-url]: https://www.debian.org/index.pl.html
 [opengl-shield]: https://img.shields.io/badge/-OpenGL-green
