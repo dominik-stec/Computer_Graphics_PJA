@@ -32,11 +32,11 @@
 
 <p align="center">
     <h3>     Programming computer graphics in OpenGL library
- <!-- </h3>
-    <br />
+ </h3>
+    <!-- <br />
     <a href="https://github.com/dccstcc/GRK_PJATK_practice"><strong>» go to CODE »</strong></a>
     <br />
-    <br /> -->
+    <br />  -->
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
