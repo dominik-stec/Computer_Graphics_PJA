@@ -101,7 +101,7 @@ C++ compilator is need. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/Computer_Graphics_PJA.git
+   git clone https://github.com/dominik-stec/Graphics.git
    ```
 2. Install required build tools
    ```sh
@@ -196,7 +196,7 @@ Dominik Stec - dccstcc@gmail.com
 
 Project URL:
 <br />
-`https://github.com/dominik-stec/Computer_Graphics.git`
+`https://github.com/dominik-stec/Graphics.git`
 
 <!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
@@ -217,16 +217,16 @@ Project URL:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Computer_Graphics.svg?style=for-the-badge
-[contributors-url]: https://github.com/dominik-stec/Computer_Graphics/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Computer_Graphics.svg?style=for-the-badge
-[forks-url]: https://github.com/dominik-stec/Computer_Graphics/network/members
-[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Computer_Graphics.svg?style=for-the-badge
-[stars-url]: https://github.com/dominik-stec/Computer_Graphics/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Computer_Graphics.svg?style=for-the-badge
-[issues-url]: https://github.com/dominik-stec/Computer_Graphics/issues
+[contributors-shield]: https://img.shields.io/github/contributors/dominik-stec/Graphics.svg?style=for-the-badge
+[contributors-url]: https://github.com/dominik-stec/Graphics/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dominik-stec/Graphics.svg?style=for-the-badge
+[forks-url]: https://github.com/dominik-stec/Graphics/network/members
+[stars-shield]: https://img.shields.io/github/stars/dominik-stec/Graphics.svg?style=for-the-badge
+[stars-url]: https://github.com/dominik-stec/Graphics/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dominik-stec/Graphics.svg?style=for-the-badge
+[issues-url]: https://github.com/dominik-stec/Graphics/issues
 [license-shield]: https://img.shields.io/badge/License-NONE-orange
-[license-url]: https://github.com/dominik-stec/Computer_Graphics/blob/master/LICENSE.md
+[license-url]: https://github.com/dominik-stec/Graphics/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
